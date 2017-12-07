@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pascalnagel.github.io/2017/12/feature-reconstruction-in-the-porto-seguro-kaggle-competition/</loc>
+    <loc>http://pnagel.net/2017/12/feature-reconstruction-in-the-porto-seguro-kaggle-competition/</loc>
     <lastmod>2017-12-07T20:54:06+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pascalnagel.github.io/archives/</loc>
+    <loc>http://pnagel.net/archives/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pascalnagel.github.io/categories/</loc>
+    <loc>http://pnagel.net/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pascalnagel.github.io/</loc>
-    <lastmod>2017-12-07T20:54:06+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pascalnagel.github.io/post/</loc>
+    <loc>http://pnagel.net/</loc>
     <lastmod>2017-12-07T20:54:06+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pascalnagel.github.io/tags/</loc>
+    <loc>http://pnagel.net/post/</loc>
+    <lastmod>2017-12-07T20:54:06+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://pnagel.net/tags/</loc>
     <priority>0</priority>
   </url>
   
