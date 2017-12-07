@@ -6,9 +6,20 @@
     <description>Recent content on Pascal Nagel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 07 Dec 2017 20:54:06 +0100</lastBuildDate>
     
 	<atom:link href="https://pascalnagel.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Feature reconstruction in the Porto Seguro Kaggle competition</title>
+      <link>https://pascalnagel.github.io/2017/12/feature-reconstruction-in-the-porto-seguro-kaggle-competition/</link>
+      <pubDate>Thu, 07 Dec 2017 20:54:06 +0100</pubDate>
+      
+      <guid>https://pascalnagel.github.io/2017/12/feature-reconstruction-in-the-porto-seguro-kaggle-competition/</guid>
+      <description>The Porto Seguro Kaggle competition featured data, which was anonymized to the point, where the actual meaning of the features was obscured. So well in fact, that during the competition only very few features were explained, making manual feature engineering essentially impossible. As a result, the winning solutions were based on neural networks, which learned good representations and avoided feature engineering entirely.
+I managed to reverse engineer one the most important features of the data set and posted the following findings in a Kaggle hosted kernel.</description>
+    </item>
     
   </channel>
 </rss>
