@@ -3,22 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://pascalnagel.github.io/archives/</loc>
+    <loc>https://pascalnagel.github.io/archives/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://pascalnagel.github.io/categories/</loc>
+    <loc>https://pascalnagel.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://pascalnagel.github.io/</loc>
+    <loc>https://pascalnagel.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://pascalnagel.github.io/tags/</loc>
+    <loc>https://pascalnagel.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
